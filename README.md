@@ -9,7 +9,7 @@ Running test
 	b) type :  mvn clean test
 	
 3) Check the report
-   Go to target folder and open the test-report.html in the browser
+   Go to target folder and open the test-report.html in the browser after the test run
    
    
    
