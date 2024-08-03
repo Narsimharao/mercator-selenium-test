@@ -1,8 +1,4 @@
-Installations Instructions
-
-Java version - 8 to 11
-
-Change the browser name from test.properties (src/main/resources) if you want to run in different browsers
+Note: Change the browser name from test.properties (src/main/resources) if you want to run in different browsers
 
 Running test
 
@@ -13,8 +9,7 @@ Running test
 	b) type :  mvn clean test
 	
 3) Check the report
-   
-   a) Go to target folder and open the test-report.html in the browser
+   Go to target folder and open the test-report.html in the browser
    
    
    
