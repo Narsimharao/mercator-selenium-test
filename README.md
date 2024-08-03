@@ -1,6 +1,6 @@
 Installations Instructions
 
-Java version - 1.8 to 11
+Java version - 8 to 11
 
 Change the browser name from test.properties (src/main/resources) if you want to run in different browsers
 
